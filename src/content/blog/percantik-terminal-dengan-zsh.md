@@ -6,8 +6,7 @@ postSlug: percantik-terminal-dengan-zsh-powerlevel10k
 featured: false
 draft: false
 tags:
-  - zsh
-  - terminal
+  - sistem operasi
 description: "Percantik terminal kalian degan ZSH dan Powerlevel10k"
 ---
 
@@ -29,6 +28,8 @@ Kelebihan ZSH dari pada Bash antara lain:
 - Punya Auto History (Cukup ketik beberapa huruf, ZSH akan auto-suggest perintah)
 - Arrow Navigasi (Gak perlu pakai tab, bisa pakai arrow)
 - Punya banyak ekstensi
+
+Plus, karena kita Gen-Z, jadi cocok aja pakai yang ada Z-nya.
 
 Oke mungkin langsung aja.
 
@@ -52,11 +53,13 @@ Kenapa harus update dulu? Bayangkan kalian ditanya teman kalian:
 
 **"Ohh, kurang up-to-date nih"**
 
-Jadi fungsi update ditujukan agar si Ubuntu tau kalau aplikasi yang kalian ingin install ada di repo Ubuntu.
+Simplenya, repo Ubuntu juga punya versi tertentu dan setiap versi punya beberapa aplikasi di dalamnya. 
+
+Jadi, bisa aja repo Ubuntu kalian sebelum di update tidak punya aplikasi yang ingin kalian pakai atau punya, tapi masih versi yang lama.
 
 Jika kalian bertanya apa itu APT (Advance Packaging Tools), Apt adalah package manager, mirip Play Store/App Store di Android/iOS.
 
-Ibaratnya, kalau Play Store bisa di jalankan terminal, mungkin gini `sudo play-store install whatsapp`.
+Ibaratnya, kalau Play Store bisa di jalankan terminal, mungkin bakal gini `sudo play-store install whatsapp`.
 
 Dan juga, `sudo` itu mirip `Run as Administrator` di Windows.
 

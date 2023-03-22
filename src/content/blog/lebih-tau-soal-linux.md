@@ -2,12 +2,12 @@
 title: Lebih Tau Soal Linux
 author: Oystearl
 pubDatetime: 2023-03-22T10:23:51Z
-postSlug: tips-trick-terminal-linux
+postSlug: lebih-tau-soal-linux
 featured: false
 draft: false
 tags:
   - sistem operasi
-description: "Penjelasan tentang Linux"
+description: "Penjelasan lebih dalam tentang Linux"
 ---
 
 Pada kali ini kita akan mencoba membahas beberapa hal tambahan di Linux.

@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - sistem operasi
-description: "Tips & Trick Terminal Linux"
+description: "Penjelasan tentang Linux"
 ---
 
 Pada kali ini kita akan mencoba membahas beberapa hal tambahan di Linux.

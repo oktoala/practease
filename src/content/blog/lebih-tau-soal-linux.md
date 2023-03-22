@@ -1,7 +1,7 @@
 ---
 title: Lebih Tau Soal Linux
 author: Oystearl
-pubDatetime: 2023-03-24T10:23:51Z
+pubDatetime: 2023-03-22T10:23:51Z
 postSlug: tips-trick-terminal-linux
 featured: false
 draft: false

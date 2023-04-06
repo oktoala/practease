@@ -126,6 +126,8 @@ Centang bagian `Custom Fonts` lalu pilih Font `MesloLGS Nerd Font`. Klik Select 
 
 ![meslo](/assets/so/4-meslo.png)
 
+Jika cara di atas tidak bisa, download font [ini](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf) secara manual, lalu pindahkan ke folder `~/.local/share/fonts`.
+
 ### Install Semua Keperluan ZSH
 
 Pertama, kita akan menginstall Oh-My-ZSH

@@ -4,7 +4,7 @@ author: Oystearl
 pubDatetime: 2023-03-22T10:23:51Z
 postSlug: install-app-windows-di-linux
 featured: false
-draft: false
+draft: true
 tags:
   - sistem operasi
 description: Belajar soal Wine dan Plymouth
@@ -60,5 +60,5 @@ Syntax umum untuk menjalankan seperti gambar dibawah.
 Saya akan coba menginstallnya di dalam folder/bottle `~/Games/Deltarune`.
 
 ```bash
-WINEARCH=win64 WINEPREFIX=~/Games/Deltarune wine 
+WINEARCH=win64 WINEPREFIX=~/Deltarune wine 
 ```

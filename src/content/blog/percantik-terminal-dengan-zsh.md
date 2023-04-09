@@ -113,9 +113,11 @@ bash -c "$(curl -LSs https://github.com/fontmgr/MesloLGSNF/raw/main/install.sh)"
 sudo fontmgr install MesloLGSNF
 ```
 
+![font](/assets/so/3-font.png)
+
 Jika cara di atas tidak bisa, download font [ini](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf) secara manual, lalu pindahkan ke folder `~/.local/share/fonts`.
 
-![font](/assets/so/3-font.png)
+Restart terminal kalian (Tutup lalu buka lagi).
 
 Jika sudah klik <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu-2" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>

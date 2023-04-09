@@ -207,8 +207,8 @@ Kita akan menambah plugins `auto-suggest` dan `syntax-hightlighing`.
 Jalankan perintah dibawah untuk menginstall `zsh-autosuggestions` dan `zsh-syntax-highlighting`.
 
 ```bash
-git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $HOME/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 ```
 
 Jika sudah, buka lagi `.zshrc` dengan `gedit`
